@@ -1,0 +1,6 @@
+url: https://github.com/trimine/dsh-purge-archived
+name: trimine/dsh-purge-archived
+category: session
+description:
+  en: Permanently delete archived conversations, stored logs, and projection caches in DeepSeek Harness.
+  zh: 彻底删除 DeepSeek Harness 中已归档的会话日志、投影缓存与相关残留记录。
